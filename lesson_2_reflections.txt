@@ -1,3 +1,9 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-I'm actually realizing that I'm not completely clear on the difference between a working directory and repo. Hmm.
+Working directory: where you do work. There are no commits here.
+Repo: this is where commits live.
+staging area: this is where files chill before they become commits
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+staging area helps you to bundle together the relevant changes into one commit
