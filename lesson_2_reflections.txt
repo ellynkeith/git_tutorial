@@ -11,3 +11,7 @@ staging area helps you to bundle together the relevant changes into one commit
 How do the diagrams help you visualize the branch structure?
 
 it can be hard to hold the non-linear version changes in one's brain. diagrams make it easier to understand.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+I'm not completely sure. My eyeballs are getting sticky.
